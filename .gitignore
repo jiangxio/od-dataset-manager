@@ -1,6 +1,9 @@
 # 本地数据库文件（包含标注数据）
 annotations.db
 
+# 旧项目配置（已迁移到数据库）
+projects.json
+
 # 数据集（本地文件，太大，不上传）
 datasets/
 result/
