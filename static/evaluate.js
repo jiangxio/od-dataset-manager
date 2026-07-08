@@ -185,7 +185,7 @@ bindSlider('iou-slider', 'iou-val');
 function setStatus(msg, isError) {
     const el = document.getElementById('eval-status');
     el.textContent = msg;
-    el.style.color = isError ? '#d43f3a' : '#2b7a78';
+    el.style.color = isError ? '#e04838' : '#3098d8';
 }
 
 // ── Per-class status for a single image ──────────────────────
